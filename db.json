@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "first title",
+      "description": "lorem ipsum",
+      "created": "22-04-2025",
+      "user_id": "u001"
+    },
+    {
+      "id": 2,
+      "title": "second title",
+      "description": "lorem ipsum2",
+      "created": "21-04-2025",
+      "user_id": "u002"
+    },
+    {
+      "id": 3,
+      "title": "Third Title",
+      "description": "Hello world",
+      "created": "22-04-2025",
+      "user_id": "u002"
+    }
+  ],
+  "users": [
+    {
+      "id": "8a17",
+      "name": "Sayan Barik",
+      "email": "sayan@gmail.com",
+      "pass1": "sayan123"
+    },
+    {
+      "id": "6fb1",
+      "name": "Souma Mukherjee",
+      "email": "souma@yahoo.com",
+      "pass1": "souma123"
+    }
+  ]
+}
